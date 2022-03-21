@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Tech Speech Plus"),
+        title: Text("Tech Speech Plus+"),
       ),
       body: Center(
         child: Container(
